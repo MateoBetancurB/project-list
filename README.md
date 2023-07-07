@@ -1,7 +1,7 @@
 # Listado de experimentos y proyectos
 Debido a cláusulas de confidencialidad no puedo compartir los proyectos que he desarrollado para clientes o empresas pero en la siguiente lista puedes ver algunos experimentos que he hecho en mi tiempo libre
 
-**Notas:** Los proyectos fueron construidos unos en Vanilla JavaScript, otros en React.js y otros en Vue.js.
+**Nota:** Los proyectos fueron construidos unos en Vanilla JavaScript, otros en React.js y otros en Vue.js.
 
 * Buscador de clima: https://city-climate.netlify.app/
 * Venta de criptomonedas: https://venta-criptomonedas.netlify.app/
