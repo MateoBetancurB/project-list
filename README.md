@@ -3,7 +3,7 @@ Debido a cláusulas de confidencialidad no puedo compartir los proyectos que he 
 
 **Nota:** Los proyectos fueron construidos unos en Vanilla JavaScript, otros en React.js y otros en Vue.js.
 
-* Ecommerce (en desarrollo...): https://react-vite-ecommerce.vercel.app/
+* Ecommerce: https://react-vite-ecommerce.vercel.app/
 * Aplicación de finanzas: https://finances-app.pages.dev/
 * Dashboard/Panel para administrar pacientes: https://citas-medicas-aplicacion.netlify.app/
 * Buscador de clima: https://city-climate.netlify.app/
