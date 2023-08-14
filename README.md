@@ -6,6 +6,7 @@ Debido a cláusulas de confidencialidad no puedo compartir los proyectos que he 
 * Ecommerce: https://react-vite-ecommerce.vercel.app/
 * Aplicación de finanzas: https://finances-app.pages.dev/
 * Dashboard/Panel para administrar pacientes: https://citas-medicas-aplicacion.netlify.app/
+* Aplicación para mostrar eventos y conciertos próximos: https://tickets-store.pages.dev/
 * Buscador de clima: https://city-climate.netlify.app/
 * Aplicación de tareas: https://todo-app-react-dev.vercel.app/
 * Venta de criptomonedas: https://venta-criptomonedas.netlify.app/
