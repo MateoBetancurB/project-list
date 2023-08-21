@@ -14,6 +14,7 @@ Debido a cláusulas de confidencialidad no puedo compartir los proyectos que he 
 * Aplicación para mostrar eventos y conciertos próximos: https://tickets-store.pages.dev/
 * Dashboard/Panel para administrar pacientes: https://citas-medicas-aplicacion.netlify.app/
 * Aplicación de tareas: https://todo-app-react-dev.vercel.app/
+* CRUD con Node.js: https://crud-react-node.pages.dev/
 
 **Vue.js**
 * Aplicación de finanzas: https://finances-app.pages.dev/
